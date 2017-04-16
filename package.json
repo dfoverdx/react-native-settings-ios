@@ -1,0 +1,28 @@
+{
+  "name": "react-native-settings-ios",
+  "version": "0.0.1",
+  "description": "Helpers for making iOS-style settings layouts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfoverdx/react-native-settings-ios.git"
+  },
+  "keywords": [
+    "react-native",
+    "iOS",
+    "settings"
+  ],
+  "author": "Jordan Hitch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfoverdx/react-native-settings-ios/issues"
+  },
+  "homepage": "https://github.com/dfoverdx/react-native-settings-ios#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-native": "^0.43.3"
+  }
+}
